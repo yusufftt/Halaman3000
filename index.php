@@ -48,7 +48,7 @@ echo '
 </head>
 <body>
     <div class="card">
-        <h1>💪 halaman Pertama Yusuf!</h1>
+        <h1>💪 Halaman Kedua Yusuf!</h1>
         <p>Kamu hebat karena sudah sampai sejauh ini. Jangan menyerah!</p>
         <span>— @yusufftt_ 🚀</span>
     </div>
