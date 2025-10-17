@@ -50,7 +50,7 @@ echo '
     <div class="card">
         <h1>💪 Selamat Datang di Halaman Kedua Yusuf!</h1>
         <p>Kamu hebat karena sudah sampai sejauh ini. Jangan menyerah!</p>
-        <span>— @yusufftt_ 🚀</span>
+        
     </div>
 </body>
 </html>
